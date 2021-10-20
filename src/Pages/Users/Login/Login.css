@@ -1,0 +1,10 @@
+.login-area {
+  padding-bottom: 300px;
+}
+.btn-area button {
+  margin: 0 10px;
+}
+.pointer {
+  cursor: pointer;
+  text-decoration: underline;
+}

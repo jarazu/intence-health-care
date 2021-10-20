@@ -1,0 +1,17 @@
+.testimonial-individual img {
+  width: 20%;
+  border-radius: 100%;
+}
+.testimonial-individual {
+  padding: 40px;
+  border: 2px solid #ffc0cb70;
+  border-radius: 10px;
+  margin: 20px 0;
+}
+.testimonial-individual p {
+  margin-top: 15px;
+}
+.review-top {
+  font-size: 20px;
+  font-weight: bold;
+}

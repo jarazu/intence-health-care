@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "SEASONAL TREATMENTS",
+        "price": "150",
+        "description": "This rebalancing treatment helps boost the immune system as we head into winter, eases any muscle tension and calms the mind. It features a foot massage in..",
+        "img": "https://image.freepik.com/free-photo/attractive-african-woman-enjoying-face-massage-spa-salon_176420-13954.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Calming Antara Ritual",
+        "price": "305",
+        "description": "Experience overall wellness. This super hydrating therapeutic wrap starts with a full body dry brushing exfoliation before you are cocooned in velvety .... ",
+        "img": "https://image.freepik.com/free-photo/handsome-man-relaxed-enjoying-deep-tissue-back-massage-spa-salon_186202-7518.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Renew Blue Eucalyptus Treatment",
+        "price": "283",
+        "description": "A holistic treatment that combats the symptoms of adrenal fatigue caused by our modern 24/7 lifestyle: lethargy, sleep disturbances and chronic aches..",
+        "img": "https://as1.ftcdn.net/v2/jpg/02/79/29/18/500_F_279291865_nlfq2xVD1p1I2QUn8uQTkVyRhOvmJIJw.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Citrus Drench Wrap",
+        "price": "235",
+        "description": "Drench your skin in highly concentrated Vitamin C emulsions that protect your skin from dryness and premature aging. This anti-aging treatment includes a..",
+        "img": "https://image.freepik.com/free-photo/masseur-doing-neck-massage-man-spa-salon_186202-4762.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Espresso Detox Treatment",
+        "price": "190",
+        "description": "A detoxifying treatment that starts with vigorous exfoliation with volcanic pumice and coffee and a warm wrap with mineral-rich black silt clay and herbal ...",
+        "img": "https://image.freepik.com/free-photo/masseur-doing-head-massage-temples-man-spa-salon_186202-4760.jpg"
+    },
+    {
+        "id": 6,
+        "name": "CBD RELIEF MASSAGE",
+        "price": "300",
+        "description": "A unique treatment incorporating CBD oil, ideal for equestrian connoisseurs, focusing on releasing muscle tension and mobilizing the joints in affected area..",
+        "img": "https://image.freepik.com/free-photo/spa-massage-young-woman-with-facial-mask-face-indoors_186202-7635.jpg"
+    }
+    
+]
+
+

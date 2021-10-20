@@ -1,0 +1,10 @@
+.fages-box {
+  border: 1px solid pink;
+  box-shadow: rgb(165 149 164 / 66%) 0px 8px 24px;
+  border-radius: 10px;
+  padding: 10px;
+  width: 30%;
+}
+.fages {
+  justify-content: space-evenly;
+}
